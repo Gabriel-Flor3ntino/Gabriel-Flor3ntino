@@ -1,73 +1,87 @@
-## Olá, eu sou o Gabriel Eduardo 👋
+<!-- BANNER / HEADER -->
 
-🎓 Estudante de Ciência da Computação (UFG)
-💻 Desenvolvedor Back-end | 🔬 Pesquisador em Heurística
+<h1 align="center">Gabriel Eduardo 👨‍💻</h1>
 
-* 🔭 Atualmente trabalho com Back-end
-* 🌱 Estudando Java e JavaScript
+<p align="center">
+  🎓 Ciência da Computação (UFG) • 💻 Back-end Java • 🔬 Heurística
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7F3FBF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-end+Java;Pesquisador+em+Heurística;Spring+Boot+%7C+Docker+%7C+APIs+REST;Sempre+aprendendo+algo+novo..." />
+</p>
+
+---
+
+## 🚀 Sobre mim
+
+* 🔭 Atualmente trabalho com desenvolvimento **Back-end**
+* 🌱 Estudando **Java, Spring Boot e JavaScript**
+* 🧠 Foco em **Heurísticas e resolução de problemas**
 * 😄 Pronomes: ele/dele
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge\&logo=quarkus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF6B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Java Specialist](https://img.shields.io/badge/Java%20Specialist-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
 </div>
 
 ---
 
-### 📊 Linguagens Mais Usadas
+## 📊 Estatísticas
 
 <div align="center">
+  <a href="https://github.com/Gabriel-Flor3ntino">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+  </a>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&langs_count=7&theme=tokyonight"/>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabriel-Flor3ntino&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 ---
 
-### 📈 Estatísticas Detalhadas
+## 🐍 Contribuições
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriel-Flor3ntino&theme=tokyonight" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabriel-Flor3ntino&theme=tokyonight" />
-
+  <img src="https://raw.githubusercontent.com/Gabriel-Flor3ntino/Gabriel-Flor3ntino/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
 
-### 🔥 Sequência de Contribuições
+## 🌐 Conecte-se comigo
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/gabrieleduflorentino/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Flor3ntino&theme=tokyonight" />
-
+  <a href="mailto:contato.gabrielflorentino@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
+---
 
+## ⚡ Destaques
 
-### 🌐 Conecte-se comigo
+* 💡 APIs REST com Java + Spring Boot
+* 🐳 Containerização com Docker
+* ⚙️ Arquitetura Back-end
+* 🧠 Pesquisa em Heurística
 
-<div align="center">
+---
 
-<a href="https://www.linkedin.com/in/gabrieleduflorentino/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:contato.gabrielflorentino@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
+<p align="center">
+  💻 “Transformando lógica em soluções reais.”
+</p>
