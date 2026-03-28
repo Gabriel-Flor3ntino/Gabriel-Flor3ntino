@@ -24,11 +24,9 @@
 
 ---
 
-### 📊 Gabriel's GitHub Stats
+### 📊 Linguagens Mais Usadas
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&langs_count=7&theme=tokyonight"/>
 
@@ -57,6 +55,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Flor3ntino&theme=tokyonight" />
 
 </div>
+
 
 
 ### 🌐 Conecte-se comigo
