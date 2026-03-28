@@ -38,16 +38,14 @@
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/Gabriel-Flor3ntino">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabriel-Flor3ntino&theme=tokyonight&hide_border=true&border_radius=10" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Gabriel-Flor3ntino&theme=tokyonight&hide_border=true&border_radius=10&v=1" />
+</p>
 
 ---
 
