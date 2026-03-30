@@ -25,23 +25,25 @@
 
 <div align="center">
 
-![Java Specialist](https://img.shields.io/badge/Java%20Specialist-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Java Specialist](https://img.shields.io/badge/Java%20Specialist-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
 ---
 
-<div align="center" style="background-color:#282a36; padding:20px; border-radius:15px;">
+## 📊 Estatísticas do GitHub 🧛‍♂️
 
-  <h2 style="color:#bd93f9;">📊 Estatísticas do GitHub</h2>
+<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=dracula" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd&icon_color=bd93f9&cache_seconds=1800"/>
+
+<br><br>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd&cache_seconds=1800"/>
 
 </div>
 
