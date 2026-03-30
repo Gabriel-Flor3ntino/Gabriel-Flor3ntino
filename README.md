@@ -35,13 +35,15 @@
 
 ---
 
-## 📊 Estatísticas
+<div align="center" style="background-color:#282a36; padding:20px; border-radius:15px;">
 
-## 📊 Estatísticas do GitHub
+  <h2 style="color:#bd93f9;">📊 Estatísticas do GitHub</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=tokyonight)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=dracula" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=dracula"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=tokyonight)
+</div>
 
 ---
 
