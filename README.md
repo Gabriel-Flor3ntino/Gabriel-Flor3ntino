@@ -35,15 +35,13 @@
 
 ---
 
-## 📊 Estatísticas do GitHub 🧛‍♂️
-
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd&icon_color=bd93f9"/>
+## 📊 Estatísticas do GitHub 🧛‍♂️
 
-<br><br>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=dracula&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=dracula&hide_border=true"/>
 
 </div>
 
