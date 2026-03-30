@@ -37,14 +37,11 @@
 
 ## 📊 Estatísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10"/>
-</p>
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Gabriel-Flor3ntino&theme=tokyonight&hide_border=true&border_radius=10&v=1" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=tokyonight)
 
 ---
 
