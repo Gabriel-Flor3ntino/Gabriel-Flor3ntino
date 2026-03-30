@@ -46,7 +46,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabriel-Flor3ntino&theme=dracula"/>
 
 </div>
----
 
 ## 🌐 Conecte-se comigo
 
