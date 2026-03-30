@@ -39,11 +39,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd&icon_color=bd93f9&cache_seconds=1800"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel-Flor3ntino&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd&icon_color=bd93f9"/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-Flor3ntino&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=bd93f9&text_color=8be9fd"/>
 
 </div>
 
